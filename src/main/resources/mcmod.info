@@ -1,16 +1,22 @@
 [
 {
-  "modid": "artifacts",
-  "name": "Artifacts Reloaded",
-  "description": "Uniquely Ancient Artifacts in Minecraft.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["Draco18s ,Thelian Interactive"],
-  "credits": "Draco18s as the Original Mod Author and Thelian Interactive Maintaining the Mod Past 1.7.10",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
+  "modid" : "Artifacts",
+  "name" : "Artifacts",
+  "version" : "1.1.3",
+  "url" : "http://tinyurl.com/nx8w53h",
+  "credits" : "XCompWiz, Veovis Muad'dib, KefkeWren, and others including Ernest Cline, who I am sure would be surprised to hear it.",
+  "authorList": [
+    "Draco18s",
+    "Tmtravlr"
+  ],
+  "description": "Adds randomly generated magic items to treasure loot generation.",
+  "logoFile" : "",
+  "updateUrl" : "",
+  "parent" : "",
+  "screenshots": [
+  ],
+  "dependancies": [
+    "Forge"
+  ]
 }
 ]

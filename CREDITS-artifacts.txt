@@ -1,4 +1,4 @@
-This is Forge Mod Loader.
+This is Artifacts-Reloaded.
 
 You can find the source code at all times at https://github.com/Thelian-Interactive/Artifacts-Reloaded
 
